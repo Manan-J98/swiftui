@@ -20,6 +20,7 @@
 		B2F75FE62C38792400698513 /* GradientBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F75FE52C38792300698513 /* GradientBootcamp.swift */; };
 		B2F75FE82C387D3300698513 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F75FE72C387D3300698513 /* IconsBootcamp.swift */; };
 		B2F75FEA2C387FE300698513 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F75FE92C387FE300698513 /* ImageBootcamp.swift */; };
+		B2F75FEC2C3E4C0F00698513 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F75FEB2C3E4C0F00698513 /* FrameBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		B2F75FE52C38792300698513 /* GradientBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootcamp.swift; sourceTree = "<group>"; };
 		B2F75FE72C387D3300698513 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		B2F75FE92C387FE300698513 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
+		B2F75FEB2C3E4C0F00698513 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				B2F75FE52C38792300698513 /* GradientBootcamp.swift */,
 				B2F75FE72C387D3300698513 /* IconsBootcamp.swift */,
 				B2F75FE92C387FE300698513 /* ImageBootcamp.swift */,
+				B2F75FEB2C3E4C0F00698513 /* FrameBootcamp.swift */,
 				B2F75FB92C32303200698513 /* Assets.xcassets */,
 				B2F75FBB2C32303200698513 /* Preview Content */,
 			);
@@ -277,6 +280,7 @@
 			files = (
 				B2F75FE42C331E5600698513 /* ColorsBootcamp.swift in Sources */,
 				B2F75FE22C331B5700698513 /* ShapesBootcamp.swift in Sources */,
+				B2F75FEC2C3E4C0F00698513 /* FrameBootcamp.swift in Sources */,
 				B2F75FB82C32302E00698513 /* ContentView.swift in Sources */,
 				B2F75FE02C3234FE00698513 /* TextBootcamp.swift in Sources */,
 				B2F75FE62C38792400698513 /* GradientBootcamp.swift in Sources */,
